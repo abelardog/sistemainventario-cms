@@ -1,4 +1,4 @@
-namespace sistemainventariocms.web.Models
+namespace sistemainventariocms.Models.ViewModels
 {
     public class ErrorViewModel
     {
