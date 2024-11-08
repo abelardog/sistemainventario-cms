@@ -16,10 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Data\Migrations\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\sistemainventariocms.Common\sistemainventariocms.Common.csproj" />
     <ProjectReference Include="..\sistemainventariocms.Models\sistemainventariocms.Models.csproj" />
   </ItemGroup>
